@@ -1,0 +1,2 @@
+reposName="terraformsam"
+tokenvalue="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"
